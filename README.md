@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Dmayor22, just my nickname
-- 👀 I’m interested in website design and development,digital marketing
-- 🌱 I’m currently learning css, JavaScript and python
-- 💞️ I’m looking to collaborate on a e-commerce website and any web project
+- 👋 Hi, I’m Oluwamuyiwa Sogbetun
+- 👀 I’m interested in website design and development, digital marketing
+- 🌱 I’m possess high proficient in HTMKL, CSS, JAVASCRIPT 
+- 💞️ I’m looking to collaborate on a e-commerce website and any website development project
 - 📫 You can reach me on Twitter https://twitter.com/david_alausa?t=umWCbjcyM3Q2OldcMbwTGg&s=16
 
 <!---
