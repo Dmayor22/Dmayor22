@@ -24,13 +24,18 @@ Other skills: Digital marketing, social media marketing and handling, Web3.
 
 📌 What I Do
 ✔️ Develop modern, responsive, and interactive UIs
+
 ✔️ Optimize web performance for seamless experiences
+
 ✔️ Integrate APIs and manage state efficiently
+
 ✔️ Write clean, reusable, and maintainable code
+
 ✔️ Stay updated with the latest front-end trends
 
 📫 Let's Connect
 🔗 [LinkedIn] https://www.linkedin.com/in/oluwamuyiwa-sogbetun-41b95118b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
 🔗 [Twitter/X] https://x.com/devmayor1?t=NXVtx0Grv3TS9lWoSjvEXw&s=09
 
 I’m always open to collaborating on exciting front-end projects or discussing new web technologies. Feel free to check out my work and connect!
