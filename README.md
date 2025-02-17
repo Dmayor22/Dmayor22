@@ -5,13 +5,21 @@
 I'm a passionate Front-End Engineer with a keen eye for design and a love for clean, efficient, and scalable code. I specialize in building user-friendly, responsive, and high-performance web applications.
 
 🔧 Tech Stack & Tools
+
 Languages: HTML, CSS, JavaScript
+
 Frameworks & Libraries: React.js
+
 Styling: Tailwind CSS, Styled Components
+
 Build Tools: Vite
+
 Version Control: Git, GitHub
+
 Testing: React Testing Library
+
 Others: Figma (for UI/UX)
+
 Other skills: Digital marketing, social media marketing and handling, Web3.
 
 📌 What I Do
