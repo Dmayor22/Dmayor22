@@ -33,7 +33,8 @@ Other skills: Digital marketing, social media marketing and handling, Web3.
 
 ✔️ Stay updated with the latest front-end trends
 
-📫 Let's Connect
+📫 Let's Connec
+
 🔗 [LinkedIn] https://www.linkedin.com/in/oluwamuyiwa-sogbetun-41b95118b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 🔗 [Twitter/X] https://x.com/devmayor1?t=NXVtx0Grv3TS9lWoSjvEXw&s=09
